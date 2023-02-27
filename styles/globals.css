@@ -254,14 +254,18 @@ span.text-red {
 
 .banner-desc {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly
+}
+
+.banner-desc .right{
+ right: 0;
 }
 
 .banner-desc button {
   border-radius: 15px;
   padding: 10px 16px;
   background-color: white;
-  color: red;
+  color: rgb(0, 157, 115);
   border: none;
   margin-top: 40px;
   font-size: 18px;
@@ -281,10 +285,8 @@ span.text-red {
 
 .footer-banner-image {
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -25%;
-  left: 25%;
+  top: -17%;
+  left: 28%;
 }
 
 .banner-desc .right {
