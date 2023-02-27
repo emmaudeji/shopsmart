@@ -431,7 +431,6 @@ span.text-red {
 
 .total h3 {
   font-size: 22px;
-
 }
 
 .remove-item {
@@ -448,7 +447,7 @@ span.text-red {
   right: 5px;
   width: 100%;
   padding: 30px 65px;
-
+  background-color: #fff;
 }
 
 .btn-container {
