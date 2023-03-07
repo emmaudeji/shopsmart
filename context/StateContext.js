@@ -128,6 +128,7 @@ const StateContext = ({ children }) => {
         toast,
         incQty,
         decQty,
+        setQty,
         onAdd,
         setShowCart,
         showCart,
